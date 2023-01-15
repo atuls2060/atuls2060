@@ -1,8 +1,4 @@
- <img align="center" src="./intro-gif.gif" alt="https://atuls2060.github.io" />
- <video width="320" height="240">
-  <source src="intro-video.webm" type="video/webm">
-Your browser does not support the video tag.
-</video>
+<img align="center" src="./intro.gif" alt="https://atuls2060.github.io" />
 <h1 align="center">Hi 👋, I'm Atul Singh</h1>
 <a href="https://atuls2060.github.io">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://atuls2060.github.io" />
