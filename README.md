@@ -1,4 +1,4 @@
-<img src="./intro-gif.gif" alt="atul-singh" />
+<img  src="https://firebasestorage.googleapis.com/v0/b/look-your-best.appspot.com/o/intro-gif.gif?alt=media&token=efd88de1-6cf8-4464-b458-6f51e3c72257" alt="atul-singh" />
 <h1 align="center">Hi 👋, I'm Atul Singh</h1>
 <a href="https://atuls2060.github.io">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://atuls2060.github.io" />
