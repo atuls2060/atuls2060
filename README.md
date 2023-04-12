@@ -10,8 +10,7 @@
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/atul-singh-453464218/" />
 </a>
 <h3 align="center">Full Stack Web Developer</h3>
-<p>Passionate for learning with an endless supply of optimism and curiosity.
-A solution driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Always looking to contribute to open-source projects and to better my coding skills</p>
+<p>Hi there! I'm a passionate Full Stack developer with a hunger to learn and explore new technologies. I love creating user-friendly web applications with clean and efficient code. I am committed to delivering high-quality work and ensuring client satisfaction. When I'm not coding, you can find me playing chess or enjoying a good cup of coffee. Let's build amazing things together!</p>
 
 - 🔭 I’m currently working on **Frontend & Backend**
 
